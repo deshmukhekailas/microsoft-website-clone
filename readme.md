@@ -4,6 +4,7 @@ A simple static website built using **HTML, CSS, and JavaScript**.
 This project is created for learning and practicing frontend development basics.
 
 
+
 ## 🚀 Features
 - Clean and simple UI
 - Custom styling with CSS
